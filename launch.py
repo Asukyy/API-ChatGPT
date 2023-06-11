@@ -64,7 +64,7 @@ def main():
     global window, bg_label, chat_box, input_box
 
     window = tk.Tk()
-    window.title("Chat Gamer")
+    window.title("ChatBox")
     window.geometry("1080x720")
     window.configure(bg="#003333")
 
