@@ -4,4 +4,4 @@
 
 API_KEY=sk-REST_OF_APIKEY
 
-instead to let API_KEY in your "launch.py" replace by your API key
+instead to let API_KEY in your "launch.py" replace by yours
