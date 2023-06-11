@@ -6,7 +6,7 @@ API_KEY=sk-REST_OF_APIKEY
 
 instead to let API_KEY in your "launch.py" replace by yours
 
-install:
+<h2>install:</h2>
 
 pip/pip3 install tk <br>
 pip/pip3 install python-dotenv<br>
